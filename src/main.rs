@@ -1,3 +1,4 @@
+/// Entry point for the Numeric Type Reinterpretation CLI application.
 fn main() {
-    println!("Hello, world!");
+    rust_numeric::run(); 
 }
